@@ -1,0 +1,1 @@
+mongodb+srv://<db_username>:<db_password>@cluster1.lxr2hx7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
