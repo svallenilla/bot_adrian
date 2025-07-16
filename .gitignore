@@ -1,0 +1,14 @@
+# Ignorar archivos sensibles y dependencias
+.env
+node_modules/
+*.log
+
+# Ignorar instaladores y ejecutables
+*.exe
+*.msi
+
+# Ignorar backups y archivos temporales
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
